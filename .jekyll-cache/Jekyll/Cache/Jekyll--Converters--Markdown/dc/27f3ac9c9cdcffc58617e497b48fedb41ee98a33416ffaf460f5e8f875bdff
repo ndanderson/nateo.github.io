@@ -1,0 +1,52 @@
+I"e	<p>As of now, I am a Lead Application Engineer @SPSCommerce Located in Mineapolis. Over the course of my career I have helped manage and build many complex <del>[[hrydas::https://en.wikipedia.org/wiki/Lernaean_Hydra]]</del> scalable systems. I like the cloud, and dislike incidents.</p>
+
+<p>When not working, I help orginize our local DevOps Meetup along with DevOps Days Minneapolis. The tech culture here in Minneapolis is special, and it is an honor being able to leave my small mark. Interested in attending a meeting, check out our [[Meetup::https://www.meetup.com/DevOps-Minneapolis/]] page.</p>
+
+<p>I have developed interest in many things including space, flight, renewable engergy, beer, and biking.</p>
+
+<p>👨‍💻🍺</p>
+
+<hr />
+
+<h2 id="reach-out-to-me">Reach out to me</h2>
+
+<p>[[Twitter::https://twitter.com/NateDAnderson]] – Shoot me a DM! Also if you are ever in Minneapolis and want to meetup for a Coffee or Beer, I am always down!</p>
+
+<p>[[Email::nate.anderson@hey.com]] - Email also works! :)</p>
+
+<hr />
+
+<h2 id="about-the-website">About the website</h2>
+
+<ul>
+  <li><strong>Page preview</strong> (Move your mouse over the link): [[Test note to verify features on this website]]</li>
+  <li><strong>Transclusion</strong>: Allows you to see a partial view of the contents of the website to the right or the left of the margin.</li>
+  <li><strong>Sidenotes</strong> (Changelog you see on the left is an example of this).</li>
+  <li><strong>Wiki-style link:</strong> Usually wikis allow you to specify links using double bracket, I added it here using liquid. Also added bad-link highlighting
+    <ul>
+      <li>Good link: [[Test note to verify features on this website]]</li>
+      <li>Bad link: [[Title of a page that doesn't exist]]</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Some Less know features:</p>
+
+<ul>
+  <li>
+    <p>Go back to the blog home or to the notes page, and try to right click on any of the entry. [Hint: Zettelkasten]</p>
+  </li>
+  <li>
+    <p>Click this card[[Memorize me so that you do well in your exams::srs]] looking thing to know how I use my notes. [Hint: SRS]</p>
+  </li>
+</ul>
+
+<p>Other Details:</p>
+
+<ul>
+  <li>Domain is registered with Google Domains</li>
+  <li>The site lives on [[Github::https://github.com/raghuveerdotnet/raghuveerdotnet.github.io]].</li>
+  <li>This website is statically generated using Jekyll from a set of Markdown files.</li>
+</ul>
+
+:ET
